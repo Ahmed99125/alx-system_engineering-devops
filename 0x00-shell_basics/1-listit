@@ -1,0 +1,6 @@
+#!/bin/bash
+name= 'ls'
+for i in $name
+do
+	echo $i
+done
