@@ -1,2 +1,2 @@
 #!/bin/bash
-names= 'ls'; for name in $names; do echo $name; done
+echo $ls
