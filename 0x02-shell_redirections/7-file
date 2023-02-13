@@ -1,2 +1,4 @@
 #!bin/bash
-echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)
+dir= \*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)
+mkdir ./$dir
+echo "Best School" > $dir
